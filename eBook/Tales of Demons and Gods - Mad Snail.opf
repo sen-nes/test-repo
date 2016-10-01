@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b3e2028-781c-4278-b769-9bdb4f51e90d</dc:identifier>
+        <dc:title>Tales of Demons and Gods</dc:title>
+        <dc:creator opf:file-as="Snail, Mad" opf:role="aut">Mad Snail</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.64.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Wuxiaworld</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta content="{&quot;Mad Snail&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-09-30T13:42:16+00:00" name="calibre:timestamp"/>
+        <meta content="Tales of Demons and Gods" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Tales of Demons and Gods - Mad Snail.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
