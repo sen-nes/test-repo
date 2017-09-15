@@ -1,2 +1,2 @@
 ﻿(<\/?)p((?:[^>"']|"[^"]*"|'[^']*')*><strong[^]*?<)\/p>
-and another change here
+and another change here lorem
