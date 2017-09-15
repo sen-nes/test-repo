@@ -1,2 +1,6 @@
 ﻿(<\/?)p((?:[^>"']|"[^"]*"|'[^']*')*><strong[^]*?<)\/p>
-and another change here ipsum
+<<<<<<< HEAD
+and another change here
+=======
+and another change here lorem
+>>>>>>> TDG_2
